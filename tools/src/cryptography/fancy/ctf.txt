@@ -1,0 +1,12 @@
+You need to find the secret key which has been used for the following pair
+of plaintext-ciphertext:
+
+Challenge m1 = [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 1, 0, 1, 1, 0]
+Challenge c1 = [1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 1]
+
+Challenge m2 = [1, 0, 0, 1, 0, 1, 1, 0, 1, 1, 1, 0, 1, 1, 1, 0, 0, 1]
+Challenge c2 = [1, 1, 1, 0, 1, 0, 1, 0, 0, 1, 0, 0, 1, 1, 1, 1, 0, 1]
+
+You also know that the secret key is 16 bit long...
+
+Any idea?

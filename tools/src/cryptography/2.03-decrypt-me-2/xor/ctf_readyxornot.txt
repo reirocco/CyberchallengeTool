@@ -1,0 +1,19 @@
+The same key has been used to encrypt
+
+challenge_ciphertext = AQYABXAmRTpZCxZSRTMABAEJFw8LRA==
+known_ciphertext = AAAAAAACFllUARYAFRwJDAMRFxkYAA==
+
+You know that a XOR cipher has been used: the key is XORed with the plaintext to obtain the ciphertext.
+
+Also, you know that the plaintext for known_ciphertext is
+known_plaintext = VGhpcyBpcyB0aGUgcGxhaW50ZXh0IQ==
+
+Here's the encryption function:
+
+#Works with ASCII strings with the same length
+def encrypt(x,y):
+
+    return ''.join([chr(ord(x[i]) ^ ord(y[i])) for i in range(len(x))]) 
+
+
+Can you decrypt challenge ciphertext?

@@ -1,0 +1,9 @@
+You came across a very strange ciphertext
+
+"SVMWPKMVAIXNZUZXKUWKWPXPVYXKAMNVAYXKAUIKHMIMWUZMHUOMIDXUGXWKAKHKOPKFXVAVHMZKWM"
+
+For sure, this is not encrypted with Caesar!
+You also found the .exe that has been used to perform the encryption,
+but the password is hardcoded into the application!
+
+Can you decrypt the initial ciphertext?
